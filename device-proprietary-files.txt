@@ -36,6 +36,7 @@ etc/felica/money.png
 etc/felica/portal_icon.png
 etc/felica/toku.png
 etc/felica/train.png
+etc/apns-conf.xml
 
 # Oneseg
 bin/nexprocess
@@ -115,5 +116,5 @@ framework/com.nextreaming.player.apps.jar
 framework/minimode.jar
 framework/secbroadcast.jar
 framework/sechardware.jar
-framework/framework2.jar
+framework/TvoutService.jar
 app/MobileTV_JPN.apk
